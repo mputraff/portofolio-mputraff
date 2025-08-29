@@ -60,6 +60,15 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/mputraff/Notepad",
 		},
+
+		{
+			title: "Cipareuan Village",
+			description:
+				"The Cipareuan Village website is a digital platform developed to support information transparency, public services, and promote the village's potential. Designed with a responsive, modern, and user-friendly interface, the website is accessible to the public on various devices, both desktop and mobile.",
+			logo: "https://static.cdnlogo.com/logos/r/85/react.svg",
+			linkText: "View Project",
+			link: "https://cipareuan.com",
+		},
 	],
 };
 
